@@ -12,7 +12,7 @@
     "snakecase-keys": "^3.1.0"
   },
   "devDependencies": {
-    "@types/node": "^12.6.8",
+    "@types/node": "^12.20.15",
     "typescript": "^3.5.3"
   }
 }
